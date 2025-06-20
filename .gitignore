@@ -1,0 +1,35 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode and other editor folders
+.vscode/
+.idea/
+
+# Environment folders
+env/
+venv/
+fgenv/
+.fgenv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs, data
+*.log
+*.csv
+
+# Face encodings
+encodings.pickle
+
+# Streamlit cache
+.streamlit/
+
+# ABI or compiled contract files
+*.json
+
+# Node modules if ever used
+node_modules/
